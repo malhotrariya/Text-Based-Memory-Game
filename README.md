@@ -1,5 +1,6 @@
 # Text Based Memory Game
-Memory is a classic matching game played with a deck of paired cards. At the beginning of the game, all cards are placed face-down on the table. With each turn, the player has the opportunity to flip over two face-down cards. If the cards match, they remain face-up, revealing their contents. However, if the cards do not match, the player must flip them face-down again, obscuring their identities. The objective of the game is to successfully match all the cards, flipping them face-up, while aiming to accomplish this task in as few turns as possible. 
+Memory is a classic matching game played with a deck of paired cards. At the beginning of the game, all cards are placed face-down on the table. With each turn, the player has the opportunity to flip over two face-down cards. If the cards match, they remain face-up, revealing their contents. However, if the cards do not match, the player must flip them face-down again, obscuring their identities. The objective of the project is to successfully code a text-based version of the memory game that matches all the cards, flipping them face-up, while aiming to accomplish this task in as few turns as possible.
+
 
 **Each problem corresponds to a specific aspect of the game's functionality**
 
