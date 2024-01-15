@@ -4,8 +4,9 @@ Memory is a classic matching game played with a deck of paired cards. At the beg
 ## Image-Based Version of the Game
 
 https://github.com/malhotrariya/Text-Based-Memory-Game/assets/73981619/f625b2ce-37ea-44e1-9a46-f88ee99c38e6
+Source: https://www.helpfulgames.com/subjects/brain-training/memory.html
 
-##Text-Based Memory Game Coding Flow
+## Text-Based Memory Game Coding Flow
 **Each problem corresponds to a specific aspect of the game's functionality**
 
 ## Lists and Randomization
